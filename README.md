@@ -20,5 +20,5 @@ My name is Ravi Kumar Lamsar, a front-end developer who happens to be a digital 
 - I'm currently polishing my WordPress development skills and building my theme from scratch.
 - On weekends or in free time, I write articles related to web and other media designing, SEO, content writing and other digital products. Soon I'll be writing about development too.
 - And when I'm bored, I read articles about tech and animals (sometimes write about animals too).
-- How to reach me, you ask? use <a href="https://www.linkedin.com/in/raviklamsar/" target="_blank">https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white</a>
+- How to reach me, you ask? use <div><a href="https://www.linkedin.com/in/raviklamsar/" target="_blank">https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white</a></div>
 
