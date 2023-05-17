@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+✨ Thank you for visiting my profile ✨
+I am Ravi Kumar Lamsar, a front-end designer with a nag of web project development. I've worked primarily on website designing projects for local companies, but I always tried to make some time to work on my development projects.
+
+I'm learning to develop websites using PHP or WordPress websites from scratch without using any plugins or page builders. I plan to create new networks here to help in my development journey. 
