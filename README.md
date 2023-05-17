@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✨ Thank you for visiting my profile ✨
-I am Ravi Kumar Lamsar, a front-end designer with a nag of web project development. I've worked primarily on website designing projects for local companies, but I always tried to make some time to work on my development projects.
+About me -
+My name is Ravi Kumar Lamsar, a front-end developer who happens to be a digital marketer from India.
+- I'm a freelancer catering to local businesses with their website-related and digital product needs.
+- I'm currently polishing my WordPress development skills and building my theme from scratch.
+- On weekends or in free time, I write articles related to web and other media designing, SEO, content writing and other digital products. Soon I'll be writing about development too.
+- And when I'm bored, I read articles about tech and animals (sometimes write about animals too).
+- How to reach me, you ask? use <a href="https://www.linkedin.com/in/raviklamsar/" target="_blank">https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white</a>
 
-I'm learning to develop websites using PHP or WordPress websites from scratch without using any plugins or page builders. I plan to create new networks here to help in my development journey. 
